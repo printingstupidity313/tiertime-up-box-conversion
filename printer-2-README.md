@@ -11,7 +11,7 @@ Tiertime UP Box Plus with the original stock build plate, retrofitted electronic
 | Motherboard | Fly D5 (Mellow) |
 | Hotend | Ender 3 |
 | Stepper motors | Original (stock) |
-| Host / OctoPrint | Raspberry Pi Zero |
+| Host / OctoPrint | galaxy s9+ |
 
 ## Modifications from Stock
 
@@ -24,10 +24,10 @@ Tiertime UP Box Plus with the original stock build plate, retrofitted electronic
 
 See [`firmware/`](./firmware) for the Marlin build/config used on the Fly D5.
 
-## OctoPrint Setup (Raspberry Pi Zero)
+## OctoPrint Setup (galaxy s9+)
 
-See [`octoprint-setup.md`](./octoprint-setup.md) for how OctoPrint is running on the Pi Zero (image used, performance notes since the Zero is fairly limited).
+see (https://octoprint.org/download/#octo4a) to setup octoprint on android also known as octo4a 
 
 ## Known Issues / Notes
 
-*(fill in — Pi Zero performance/streaming limitations, wiring gotchas, firmware limitations, etc.)*
+*(not as updated as the standard octoprint but will work fine)*
