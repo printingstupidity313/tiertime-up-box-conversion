@@ -23,10 +23,7 @@ Modified Tiertime UP Box Plus with an upgraded 256x256 build plate.
 
 See [`firmware/`](./firmware) for the Marlin build/config used on the Fly D5.
 
-## OctoPrint Setup (Galaxy S9+)
-
-See [`octoprint-setup.md`](./octoprint-setup.md) for how OctoPrint is running on the Galaxy S9+.
-
+see () to setup mainsail and setup you slicer 
 ## Known Issues / Notes
 
-*(fill in — bed leveling quirks, wiring gotchas, firmware limitations, etc.)*
+whilst using camera it can put a strain on the cpu and make the pi zero overheat 
