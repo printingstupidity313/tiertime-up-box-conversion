@@ -24,7 +24,7 @@ The stock Tiertime UP Box Plus ships with proprietary control boards and hotends
 
 ## Why
 i converted this machine after seeing the amount of unhappy owners that the company TEIRTIME left with a 2000 USD paperweight i will continue to update this until 2030 and will make sure to answer all questions if you have a question please email me at raw20901@hotmail.com 
-if you need any help assembling this there will be an instruction book soon and wiring diagrams will be uploaded soon
+if you need any help assembling this there will be an instruction book soon and wiring diagrams have been uploadedsoon
 i have also tried many configurations and you can use any phone not just the s9+ that i have used. the pi zero w is not recommended by the company mainsail but i had it on hand and it works but if you have a pi 3 or a pi zero 2 that would be much easier 
 
 ## License
