@@ -14,7 +14,7 @@ The stock Tiertime UP Box Plus ships with proprietary control boards and hotends
 | Motherboard | Fly D5 | Fly D5 |
 | Hotend | Ender 3 | Ender 3 |
 | Steppers | Original | Original |
-| Host / OctoPrint | Galaxy S9+ | Raspberry Pi Zero |
+| Host / OctoPrint | RASPBERRY PI ZERO W| GALAXY S9+ |
 
 ## Repo Structure
 
