@@ -23,7 +23,7 @@ Modified Tiertime UP Box Plus with an upgraded 256x256 build plate.
 
 See [`firmware/`](./firmware) for the Marlin build/config used on the Fly D5.
 
-see () to setup mainsail and setup you slicer 
+see (https://docs.mainsail.xyz/mainsailos/getting-started/raspberry-pi/) to setup mainsail and setup your slicer 
 ## Known Issues / Notes
 
 whilst using camera it can put a strain on the cpu and make the pi zero overheat 
