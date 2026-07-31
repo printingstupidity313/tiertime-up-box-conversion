@@ -11,8 +11,7 @@ Modified Tiertime UP Box Plus with an upgraded 256x256 build plate.
 | Motherboard | Fly D5 (Mellow) |
 | Hotend | Ender 3 |
 | Stepper motors | Original (stock) |
-| Host / OctoPrint | Galaxy S9+ |
-
+| Host / mainsail | raspberry pi zero |
 ## Modifications from Stock
 
 - **Build plate:** replaced/modified to 256x256mm *(add details: mounting changes, leveling, bed surface used)*
