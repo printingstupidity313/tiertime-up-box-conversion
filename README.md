@@ -23,9 +23,9 @@ The stock Tiertime UP Box Plus ships with proprietary control boards and hotends
 - [`shared/`](./shared) — wiring, BOM, and mods common to both printers
 
 ## Why
-
-Notes here on the motivation for these builds — reviving old hardware, cost vs buying new, etc. *(fill in your own context)*
+i converted this machine after seeing the amount of unhappy owners that the company TEIRTIME left with a 2000 USD paperweight i will continue to update this until 2030 and will make sure to answer all questions if you have a question please email me at raw20901@hotmail.com 
+if you need any help assembling this there will be an instruction book soon and wiring diagrams will be uploaded soon
 
 ## License
 
-*(add your preferred license)*
+*(MIT LICENCE)*
